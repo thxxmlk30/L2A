@@ -1,0 +1,12 @@
+git add
+git status
+git commit -m "contenu du commit"
+git remote add
+git push -u origin main
+git push
+git pull
+git branch "nom dee la branche"
+git branch
+git checkout
+git fetch
+git merge
